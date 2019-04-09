@@ -56,10 +56,10 @@ GT（随身调）是APP的随身调试平台，它是直接运行在手机上的
 
 
 <div style=float:none;clear:both;>
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8ysrioj30u01rcmzs.jpg"   align=center/>
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh9vliz2j30u01rcwhg.jpg"   align=center/>
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wha60dz4j30u01rcq4o.jpg"   align=center/>
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whaey6t4j30u01rcgn6.jpg"   align=center />
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8ysrioj30u01rcmzs.jpg"  align=center />
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh9vliz2j30u01rcwhg.jpg"  align=center />
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wha60dz4j30u01rcq4o.jpg"  align=center />
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whaey6t4j30u01rcgn6.jpg"  align=center />
 </div>
 <div style=float:none;clear:both;>
 <img width="200" height="400" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whatb8hsj30u01rcq4o.jpg"  align=center />
