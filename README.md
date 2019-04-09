@@ -9,7 +9,7 @@
 
 
 #性能分析工具
-##### 1.LeakCanary   22k star
+### 1.LeakCanary   22k star
 https://github.com/square/leakcanary
 
 - ![avatar](https://ws2.sinaimg.cn/large/006tNc79ly1g1wh6rfr7aj30e806lt9h.jpg)
@@ -19,7 +19,7 @@ https://github.com/square/leakcanary
  KeyedWeakReference与ReferenceQueue联合使用，在弱引用关联的对象被回收后，会将引用添加到ReferenceQueue；清空后，可以根据是否继续含有该引用来判定是否被回收；判定回收， 手动GC, 再次判定回收，采用双重判定来确保当前引用是否被回收的状态正确性；如果两次都未回收，则确定为泄漏对象。
 
 
-##### 2.BlockCannry  4.9k star
+### 2.BlockCannry  4.9k star
 https://github.com/markzhai/AndroidPerformanceMonitor
 
 - ![avatar](https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8g6oufj30jr0jemyt.jpg)
@@ -46,7 +46,7 @@ private boolean isBlock(long endTime) {
 
 ```
 
-##### 3.GT   3.6K star
+### 3.GT   3.6K star
 https://github.com/Tencent/github
 
 什么是GT？
@@ -56,10 +56,10 @@ GT（随身调）是APP的随身调试平台，它是直接运行在手机上的
 
 
 <div style=float:none;clear:both;>
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8ysrioj30u01rcmzs.jpg"   />
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh9vliz2j30u01rcwhg.jpg"   />
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wha60dz4j30u01rcq4o.jpg"   />
-<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whaey6t4j30u01rcgn6.jpg"  align=center />
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8ysrioj30u01rcmzs.jpg"   align=center/>
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh9vliz2j30u01rcwhg.jpg"   align=center/>
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wha60dz4j30u01rcq4o.jpg"   align=center/>
+<img width="200" height="400" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whaey6t4j30u01rcgn6.jpg"   align=center />
 </div>
 <div style=float:none;clear:both;>
 <img width="200" height="400" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whatb8hsj30u01rcq4o.jpg"  align=center />
@@ -116,10 +116,10 @@ GT（随身调）是APP的随身调试平台，它是直接运行在手机上的
             });
 ```
 
-##### 4.Emmagee
+### 4.Emmagee
 https://www.jianshu.com/p/a539a167d7dc
-##### 5.ITest
-##### 6.TestIn
+### 5.ITest
+### 6.TestIn
 
 
 
