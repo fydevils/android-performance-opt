@@ -55,18 +55,18 @@ GT（随身调）是APP的随身调试平台，它是直接运行在手机上的
 利用GT，仅凭一部手机，无需连接电脑，即可对APP进行快速的性能测试(CPU、内存、流量、电量、帧率/流畅度等等)、开发日志的查看、Crash日志查看、网络数据包的抓取、APP内部参数的调试、真机代码耗时统计等。
 
 
-<img style="width:30%;height:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh9vliz2j30u01rcwhg.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8ysrioj30u01rcmzs.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wha60dz4j30u01rcq4o.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whaey6t4j30u01rcgn6.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whatb8hsj30u01rcq4o.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whb9x4snj30u01rc78m.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whbhpm6ej30u01rc0v2.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whbu9z8fj30u01rcjtq.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws1.sinaimg.cn/large/006tNc79ly1g1whc3i169j30u01rcmyz.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whcencwej30u01rcn1v.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws1.sinaimg.cn/large/006tNc79ly1g1whcljvufj30u01rc76t.jpg"  align=center />
-<img style="width:30%;height:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whcqudcej30u01rctat.jpg"  align=center />
+<img style="zoom:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh9vliz2j30u01rcwhg.jpg"  align=center />
+<img style="zoom:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wh8ysrioj30u01rcmzs.jpg"  align=center />
+<img style="zoom:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1wha60dz4j30u01rcq4o.jpg"  align=center />
+<img style="zoom:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whaey6t4j30u01rcgn6.jpg"  align=center />
+<img style="zoom:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whatb8hsj30u01rcq4o.jpg"  align=center />
+<img style="zoom:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whb9x4snj30u01rc78m.jpg"  align=center />
+<img style="zoom:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whbhpm6ej30u01rc0v2.jpg"  align=center />
+<img style="zoom:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whbu9z8fj30u01rcjtq.jpg"  align=center />
+<img style="zoom:30%" src="https://ws1.sinaimg.cn/large/006tNc79ly1g1whc3i169j30u01rcmyz.jpg"  align=center />
+<img style="zoom:30%" src="https://ws2.sinaimg.cn/large/006tNc79ly1g1whcencwej30u01rcn1v.jpg"  align=center />
+<img style="zoom:30%" src="https://ws1.sinaimg.cn/large/006tNc79ly1g1whcljvufj30u01rc76t.jpg"  align=center />
+<img style="zoom:30%" src="https://ws3.sinaimg.cn/large/006tNc79ly1g1whcqudcej30u01rctat.jpg"  align=center />
 
 
 #### 这是测试下载图片等功能的 内嵌代码
