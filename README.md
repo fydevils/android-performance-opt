@@ -118,8 +118,17 @@ GT（随身调）是APP的随身调试平台，它是直接运行在手机上的
 
 ### 4.Emmagee
 https://www.jianshu.com/p/a539a167d7dc
-### 5.ITest
-### 6.TestIn
+
+
+### 5.battery-historian
+功耗检测
+https://github.com/google/battery-historian
+
+
+### 6.AndroidDevMetrics
+UI性能检测工具
+https://github.com/frogermcs/AndroidDevMetrics
+
 
 
 
